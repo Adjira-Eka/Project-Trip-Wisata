@@ -22,11 +22,11 @@ Tera Travel adalah situs web pemesanan perjalanan yang memungkinkan pengguna unt
 
 1. **Clone repository** ini ke direktori lokal Anda:
     ```bash
-    git clone https://github.com/username/tera-travel.git
+    git clone https://github.com/Adjira-Eka/Project-Trip-Wisata
     ```
 2. **Navigasi** ke direktori proyek:
     ```bash
-    cd tera-travel
+    cd Project-Trip-Wisata
     ```
 3. **Konfigurasi Database**:
     - Buat database MySQL baru dan impor skema yang diperlukan.
@@ -41,7 +41,7 @@ Tera Travel adalah situs web pemesanan perjalanan yang memungkinkan pengguna unt
 - `db_config.php`: File konfigurasi untuk koneksi database.
 - `css/styles.css`: Custom CSS untuk styling tambahan.
 - `images/`: Direktori untuk menyimpan gambar latar belakang, logo, dan gambar perjalanan.
-- `sql/schema.sql`: File SQL untuk membuat tabel yang dibutuhkan di database.
+- `db/trip_booking_db.sql`: File SQL untuk membuat tabel yang dibutuhkan di database.
 
 ## Penggunaan
 
